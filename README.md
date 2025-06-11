@@ -18,6 +18,7 @@
 
 ## Courses
 
+- [Asimov - Chatbot de IA do zero](https://github.com/rtadewald/Agents-Prompts)
 - [Web Security - Web LLM attacks](https://portswigger.net/web-security/llm-attacks)
 - [Vector Databases com Qdrant](https://www.youtube.com/watch?v=KRiFMFVPL1Q)
 - [DeepLearning.AI - All Courses](https://www.deeplearning.ai/courses/)
@@ -32,8 +33,7 @@
 
 ## Tools
 
-- [Model Context Protocol (MCP) - Introduction](https://modelcontextprotocol.io/introduction)
-- [Model Context Protocol - servers](https://github.com/modelcontextprotocol/servers)
+- [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 - [LM Studio - Your local AI toolkit](https://lmstudio.ai/)
 - [Abacus.AI - ChatLLM Teams](https://chatllm.abacus.ai/)
 - [Roo Code - Your AI-Powered Dev Team, Right in Your Editor](https://roocode.com/)
@@ -44,6 +44,16 @@
 - [TaskMaster - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.](https://github.com/eyaltoledano/claude-task-master)
 - [docling - Get your documents ready for gen AI](https://github.com/docling-project/docling)
 - [dbhub - Universal database MCP server connecting to MySQL, PostgreSQL, Oracle, SQL Server, MariaDB, SQLite.](https://github.com/bytebase/dbhub/)
+
+#### MCP
+
+- [Model Context Protocol (MCP) - Introduction](https://modelcontextprotocol.io/introduction)
+- [Model Context Protocol - servers](https://github.com/modelcontextprotocol/servers)
+- [Awesome MCP Servers](https://mcpservers.org/)
+- [GitHub's official MCP Server](https://github.com/github/github-mcp-server)
+- [Glama - Open-Source MCP servers](https://github.com/punkpeye/awesome-mcp-servers)
+- [DockerHub - MCP Servers](https://hub.docker.com/catalogs/mcp)
+- [MCP Server Prompt Generator For Devs Guide](https://github.com/wesleywillians/mcp-prompts-for-devs)
 
 ## IDEs
 
