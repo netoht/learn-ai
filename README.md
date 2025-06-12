@@ -61,6 +61,7 @@
 
 - [Google Agent Development Kit (ADK)](https://google.github.io/adk-docs/)
 - [ADK - Common Multi-Agent Patterns](https://google.github.io/adk-docs/agents/multi-agents/#2-common-multi-agent-patterns-using-adk-primitives)
+- [ADK - A collection of sample agents](https://github.com/google/adk-samples)
 - [Microsoft - Multi-agent design patterns](https://github.com/microsoft/ai-agents-for-beginners/tree/main/08-multi-agent)
 - [LangChain](https://www.langchain.com/)
 - [LangGraph](https://www.langchain.com/langgraph)
