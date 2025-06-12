@@ -29,6 +29,7 @@
 - [OpenAI - Academy](https://academy.openai.com/)
 - [OpenAI - A practical guide to building agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)
 - [Microsoft - Develop Generative AI solutions with Azure OpenAI in Foundry Models](https://learn.microsoft.com/en-us/training/paths/develop-ai-solutions-azure-openai/)
+- [Microsoft - AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners/)
 - [FC - MBA Engenharia de Software com IA](https://ia.fullcycle.com.br/mba-ia/)
 
 ## Tools
