@@ -7,7 +7,7 @@
 - [The Pragmatic Engineer - Real-world engineering challenges: building Cursor](https://newsletter.pragmaticengineer.com/p/cursor)
 - [Engineering at Anthropic - Building effective agents](https://www.anthropic.com/engineering/building-effective-agents)
 
-## Techniques
+## Techniques / Prompts
 
 - [Prompt Engineering Guide - Prompting Techniques](https://www.promptingguide.ai/techniques)
 - [Anthropic - Prompt engineering overview](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
@@ -40,10 +40,10 @@
 - [Pinecone - The vector database for scale in production](https://www.pinecone.io/)
 - [LlamaIndex - Build AI Knowledge Assistants over your enterprise data](https://www.llamaindex.ai/)
 - [SearXNG - free internet metasearch engine which aggregates results from various search services and databases](https://github.com/searxng/searxng)
-- [Agent Development Kit (ADK) - a flexible and modular framework for developing and deploying AI agents](https://google.github.io/adk-docs/)
 - [TaskMaster - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.](https://github.com/eyaltoledano/claude-task-master)
+- [Google Cloud - Model Armor overview (Security)](https://cloud.google.com/security-command-center/docs/model-armor-overview)
 - [docling - Get your documents ready for gen AI](https://github.com/docling-project/docling)
-- [dbhub - Universal database MCP server connecting to MySQL, PostgreSQL, Oracle, SQL Server, MariaDB, SQLite.](https://github.com/bytebase/dbhub/)
+- [OpenRouter - The Unified Interface For LLMs](https://openrouter.ai/)
 
 #### MCP
 
@@ -54,19 +54,28 @@
 - [Glama - Open-Source MCP servers](https://github.com/punkpeye/awesome-mcp-servers)
 - [DockerHub - MCP Servers](https://hub.docker.com/catalogs/mcp)
 - [MCP Server Prompt Generator For Devs Guide](https://github.com/wesleywillians/mcp-prompts-for-devs)
+- [dbhub - Universal database MCP server connecting to MySQL, PostgreSQL, Oracle, SQL Server, MariaDB, SQLite.](https://github.com/bytebase/dbhub/)
 
-## IDEs
+#### Agents - Frameworks / Libraries
+
+- [Google Agent Development Kit (ADK)](https://google.github.io/adk-docs/)
+- [LangChain](https://www.langchain.com/)
+- [LangGraph](https://www.langchain.com/langgraph)
+- [CrewAI - The Leading Multi-Agent Platform](https://www.crewai.com/)
+- [Microsoft AutoGen](https://microsoft.github.io/autogen/)
+- [LiteLLM - LLM Gateway to provide model access](https://docs.litellm.ai/docs/)
+
+## IDEs / Settings
 
 - [Cursor - Context Rules](https://docs.cursor.com/context/rules#rule-structure)
 - [VSCode - GitHub Copilot](https://code.visualstudio.com/docs/copilot/overview)
 - [VSCode - GitHub Copilot Customization](https://code.visualstudio.com/docs/copilot/copilot-customization)
 
-## Settings
-
 #### VSCode
 
+`settings.json`
+
 ```json
-# vscode settings.json
 {
   "github.copilot.chat.codeGeneration.instructions": [
     { "file": ".vscode/rules/javascript/coding-guidelines.md" },
