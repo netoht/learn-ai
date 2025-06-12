@@ -64,6 +64,7 @@
 - [CrewAI - The Leading Multi-Agent Platform](https://www.crewai.com/)
 - [Microsoft AutoGen](https://microsoft.github.io/autogen/)
 - [LiteLLM - LLM Gateway to provide model access](https://docs.litellm.ai/docs/)
+- [ADK - Sistema de Criação de Posts com Múltiplos Agentes de IA](https://github.com/elvisassis/multiple_agents_to_post_instragram)
 
 ## IDEs / Settings
 
