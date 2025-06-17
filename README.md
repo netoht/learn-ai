@@ -15,6 +15,7 @@
 - [Prompt Dev](https://gist.github.com/wesleywillians/5fcd35fd34efa265c56345e055b4270d)
 - [Continue.dev - Custom AI code assistants](https://hub.continue.dev/explore/assistants)
 - [Context7 - documentation for LLMs and AI code editors](https://context7.com/)
+- [System Prompts Leaks](https://github.com/asgeirtj/system_prompts_leaks/)
 
 ## Courses
 
